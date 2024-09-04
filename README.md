@@ -1,6 +1,6 @@
-# Fashion Outfit Recommender
+# FashionMatch
 
-Welcome to the Fashion Outfit Recommender project! This project utilizes a ResNet 50 Model to recommend fashion outfits based on various techniques including Intent Classification, Web Scraping, and Convolutional Neural Networks.
+Welcome to the FashionMatch project! This project utilizes a ResNet 50 Model to recommend fashion outfits based on various techniques including Intent Classification, Web Scraping, and Convolutional Neural Networks.
 
 ## Project Overview
 
